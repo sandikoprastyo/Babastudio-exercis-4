@@ -1,0 +1,122 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./images/main_bg.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    background-color: #ffffff;
+}
+
+.header {
+    background-color: black;
+}
+
+.banner1 {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.banner2 {
+    width: 850px;
+    height: 200px;
+    float: right;
+}
+
+.menu {
+    line-height: 20px;
+    background-color: black;
+    padding: 10px;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    display: inline;
+    padding: 10px;
+}
+
+.menu ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.menu ul li a:hover {
+    color: aqua;
+}
+
+.slider {
+    background-color: #ffffff;
+    font-weight: lighter;
+}
+
+.slider img {
+    width: 150px;
+    height: 200px;
+}
+
+.slider h3 {
+    text-align: center;
+}
+
+.slider h5 {
+    margin-left: 190px;
+    padding-top: 0px;
+}
+
+.content {
+    background-color: #ffffff;
+    height: 400px;
+}
+
+.content img {
+    float: left;
+}
+
+.content {
+    font-size: 16px;
+}
+
+.content1 img {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.content1 p {
+    float: right;
+    font-size: 16px;
+}
+
+.content2 img {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.content2 {
+    float: right;
+    font-size: 16px;
+}
+
+.content3 img {
+    padding-right: 10px;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.row .content3 {
+    float: right;
+    font-size: 16px;
+}
+
+.content3 p {
+    margin-left: 30px;
+}
